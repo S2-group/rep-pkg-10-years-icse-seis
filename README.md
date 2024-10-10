@@ -15,4 +15,4 @@ This is the root directory of the repository. The directory is structured as fol
 
 Use the Python script to generate the keyword clusters. Run the command
 
-``python cluster_keywords.py``
+> `python cluster_keywords.py`
