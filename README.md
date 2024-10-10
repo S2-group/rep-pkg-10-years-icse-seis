@@ -13,3 +13,6 @@ This is the root directory of the repository. The directory is structured as fol
      |
      |--- Appendix.pdf           Contains list of primary studies                   
 
+Use the Python script to generate the keyword clusters. Run the command
+
+``python cluster_keywords.py``
