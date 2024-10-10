@@ -9,7 +9,7 @@ This is the root directory of the repository. The directory is structured as fol
      |
      |--- src/                   Python scripts to cluster keywords
      |
-     |--- docs/                  Documents like Appendix and additional material
-     |
      |--- data/                  Extracted data, results and figures.                   
+     |
+     |--- Appendix.pdf           Contains list of primary studies                   
 
